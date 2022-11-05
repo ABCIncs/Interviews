@@ -1,0 +1,54 @@
+{
+    "monuments": [
+        {
+            "name": "The Tower Of London",
+            "location": "London, UK",
+            "latitude": "51.508530",
+            "longitude": "-0.076132",
+
+        },
+        {
+            "name": "Buckingham Palace",
+            "location": "London, UK",
+            "latitude": "51.501476",
+            "longitude": "-0.140634",
+
+        },
+        {
+            "name": "The London Eye",
+            "location": "London, UK",
+            "latitude": "51.503399",
+            "longitude": "-0.119519",
+
+        },
+        {
+            "name": "Big Ben",
+            "location": "London, UK",
+            "latitude": "51.510357",
+            "longitude": "-0.116773",
+
+        },
+        {
+            "name": "Trafalgar Square",
+            "location": "London, UK",
+            "latitude": "51.5081",
+            "longitude": "-0.1281",
+
+        },
+        {
+            "name": "St Paul's Cathedral",
+            "location": "London, UK",
+            "latitude": "51.513329",
+            "longitude": "-0.098761",
+
+        },
+        {
+            "name": "The O2 - Millenium Dome",
+            "location": "London, UK",
+            "latitude": "51.502525",
+            "longitude": "0.003664",
+
+        },
+
+    ]
+}
