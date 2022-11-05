@@ -20,3 +20,12 @@ This iOS challenge creates an application to display London's iconic monuments o
 - The list view should show all the London monuments.
 - Clicking a monument on the map should show the name and location of the monument in a pop up.
 - You should fix any bugs and errors you find in the sample.
+
+
+### Challenge 2: [The Movie app](https://github.com/cedricbahirwe/KnightX)
+
+### Description
+
+The Movie app is a simple application that consists of two features. The first feature is a collection of movies, while the second feature is a page that presents details of the selected movie.
+
+Check [the repo](https://github.com/cedricbahirwe/KnightX) to find full description regarding the task
